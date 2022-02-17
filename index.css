@@ -237,7 +237,7 @@ body{
 
 @media only screen and (min-width: 200px) and (max-width: 767px)  {
     .container{
-        width:30%;
+        width:50%;
     }
     .instruction{
         width:90%;
