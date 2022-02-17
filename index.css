@@ -234,3 +234,18 @@ body{
     border:2px solid rgb(63, 63, 63);
     cursor: pointer;
 }
+
+@media only screen and (min-width: 200px) and (max-width: 767px)  {
+    .container{
+        width:30%;
+    }
+    .instruction{
+        width:90%;
+    }
+    .question{
+        width:90%;
+    }
+    .end{
+        width:55%;
+    }
+}
